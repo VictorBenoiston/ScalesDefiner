@@ -15,6 +15,7 @@ In this script we have the most common cases of scale, which are:
 Basically, what you have to do after run is: 
 type each note (8 notes) in the sequence, with # and b as well.
 Then, it you return the kind of scale you just typed.
+It doesn't show the scale itself, just the kind.
 
 Português:
 Um script que permite o input das notas, e gera como output o tipo de escala.
@@ -32,3 +33,4 @@ Nesse script, nós temos os mais comuns tipos de escala, que são:
 Basicamente, o que você tem que fazer depois de dar run:
 escrever cada nota (8 notas) em sequência, usando os # e b que necessitarem.
 Daí, o script te dirá qual o tipo de escala que você digitou.
+Não mostra a escala propriamente dita, apenas o tipo
