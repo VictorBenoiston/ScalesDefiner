@@ -28,10 +28,8 @@ Nesse script, nós temos os mais comuns tipos de escala, que são:
 -Escala menor;
 -Escala menor harmonica;
 -Escala menor melódica.
-<<<<<<< HEAD
 </p>
 <h3>Input:</h3>
 <img src="images/input.png">
 <h3>Output:</h3>
 <img src="images/output.png">
-
