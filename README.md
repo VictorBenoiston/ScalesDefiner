@@ -1,5 +1,6 @@
 # Scales
-#English
+<h3>English:</h3>
+<p>
  A script that allow you to input the notes and it'll output the kind of scale.
 
 A scale in music theory is a group of notes in sequence.
@@ -12,11 +13,11 @@ In this script we have the most common cases of scale, which are:
 -Minor harmonic;
 -Minor melodic.
 
-Basically, what you have to do after run is: 
-type each note (8 notes) in the sequence, with # and b as well.
-Then, it you return the kind of scale you just typed.
 
-Português:
+</p>
+
+<h3>Português:</h3>
+<p>
 Um script que permite o input das notas, e gera como output o tipo de escala.
 
 Uma escala, em teoria músical, é uma sequência de notas.
@@ -28,7 +29,8 @@ Nesse script, nós temos os mais comuns tipos de escala, que são:
 -Escala menor;
 -Escala menor harmonica;
 -Escala menor melódica.
-
-Basicamente, o que você tem que fazer depois de dar run:
-escrever cada nota (8 notas) em sequência, usando os # e b que necessitarem.
-Daí, o script te dirá qual o tipo de escala que você digitou.
+</p>
+<h3>Input:</h3>
+<img src="images/input.png">
+<h3>Output:</h3>
+<img src="images/output.png">
