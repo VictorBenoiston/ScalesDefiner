@@ -30,7 +30,7 @@ Nesse script, nós temos os mais comuns tipos de escala, que são:
 -Escala menor melódica.
 </p>
 <h3>Scale types:</h3>
-<img src="images/scale_types.pnc">
+<img src="images/scale_types.png">
 <h3>Input:</h3>
 <img src="images/input.png">
 <h3>Output:</h3>
