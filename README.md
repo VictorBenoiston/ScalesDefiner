@@ -5,7 +5,7 @@
 
 A scale in music theory is a group of notes in sequence.
 
-There are a lot of scales, and everyone can make your own scale, as far as it sounds god, or not, haha! But that's the cool thing about music, you have the rules.
+There are a lot of scales, and everyone can make your own scale, as far as it sounds good, or not, haha! But that's the cool thing about music, you have the rules.
 
 In this script we have the most common cases of scale, which are:
 -Major scale;
